@@ -1,0 +1,512 @@
+.nav-sec {
+    background-color: #39007A;
+}
+
+.login {
+    width: 45px;
+    height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    align-items: center;
+    text-align: center;
+    line-height: 24px;
+    color: #FFD600;
+}
+
+.singup {
+    width: 165.41px;
+    height: 50px;
+    left: 1129.84px;
+    top: 20px;
+
+    background: #FFD600;
+    border-radius: 32px;
+}
+
+.head {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.head-1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFD600;
+}
+
+.head-content {
+    line-height: 24px;
+}
+
+.Home {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #FFD600 !important;
+    align-items: center;
+}
+
+
+.category {
+    position: absolute;
+    width: 146px;
+    height: 50px;
+    position: absolute;
+    background: #FFD600;
+    border-radius: 90px;
+    left: 14px;
+    top: 6px;
+}
+
+
+.search-1 {
+    position: relative;
+}
+
+.search-2 {
+    width: 700px;
+    height: 65px;
+    text-align: center;
+    border: none;
+    border: 1px solid #FFD600;
+    border-radius: 40px;
+}
+
+.search {
+    top: 4px;
+    right: 29px;
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    position: absolute;
+    border: none;
+    background: #FFD600;
+}
+
+.ppl {
+    width: 40px;
+    height: 40px;
+
+}
+
+
+.fa-star-o {
+    color: #FFC331;
+}
+
+.year-of-exp {
+    font-size: 32px;
+}
+
+.nav-sec-pic1 {
+    position: relative;
+
+}
+
+.nav-sec-pic2 {
+    position: relative;
+}
+
+.man-pic-l1 {
+    position: absolute;
+    top: 100px;
+    left: 70px;
+}
+
+.man-pic-l2 {
+    position: absolute;
+
+    right: 150px;
+    left: 27px;
+
+}
+
+/* .sl-1{
+    height:"100px";
+     width:"100px";
+} */
+
+.online-course {
+    /* background-image: url(/images/bg-image-1.jfif); */
+    background-color: #39007A;
+    color: white;
+}
+
+.vr {
+    background-color: 1px solid white;
+}
+
+.online-course-count {
+    font-size: 20px;
+    font-weight: 700;
+
+
+}
+
+.course-detail {
+    color: #FFD600;
+    text-align: center;
+    justify-content: center;
+}
+
+.Nickole-Brown {
+    font-size: 10px;
+}
+
+.fa-star {
+    color: #FFD600;
+}
+
+.star {
+    color: black;
+}
+
+.fa-clock-o {
+    color: #FFD600;
+}
+
+.fa-book {
+    color: #FFD600;
+}
+
+.fa-user {
+
+    color: white;
+    background: #FFD600;
+
+}
+
+.skills-1 {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+
+}
+
+.skills {
+    text-decoration: none;
+    color: black;
+
+}
+
+.btn-1 {
+    background: #FFD600;
+    border-radius: 32px;
+    font-weight: bold;
+    border: none;
+}
+
+.skill-head {
+    font-size: 24px;
+    font-weight: bold;
+    color: #392C7D;
+}
+
+.fa-graduation-cap {
+    background: #6CC04A;
+
+    color: white;
+}
+
+.fa-handshake-o {
+    color: white;
+    background: #FB0F00;
+}
+
+.book-1 {
+    color: white;
+    background: #00BFFB;
+
+}
+
+.exp-course-head {
+    color: #FFD600;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.exp-course-bg {
+    /* background: url(/images/bg-image-1.jfif); */
+    background-color: #39007A;
+}
+
+.mentor-detail-1 {
+    color: #2D0160;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.mentor-detail-2 {
+    position: relative;
+
+}
+
+.mentor-detail-3 {
+    position: absolute;
+    top: 100px;
+    left: 96px;
+    text-align: center;
+
+}
+
+.mentor-detail-4 {
+    position: absolute;
+    top: 245px;
+    left: 65px;
+    text-align: center;
+
+}
+
+.mentor-detail-5 {
+    position: absolute;
+    top: 38px;
+    left: 358px;
+    text-align: center;
+}
+
+.tutor-pic {
+    background-color: aqua;
+
+}
+
+.goals {
+    /* background: url(/images/bg-image-2.jfif); */
+    background-color: #FFD600;
+}
+
+.goal-1 {
+    color: #2D0160;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 48px;
+}
+
+.goal-2 {
+    color: #2D0160;
+    font-size: 32px;
+    font-weight: bold;
+
+    line-break: 10px;
+}
+
+.goal-detail {
+    color: black;
+
+}
+
+.education-detail {
+    position: relative;
+}
+
+.education-detail-2 {
+    position: absolute;
+    left: 307px;
+    top: 105px;
+}
+
+.education-detail-3 {
+    position: absolute;
+    left: 317px;
+    top: 272px;
+}
+
+.education-detail-4 {
+    position: absolute;
+    top: 76px;
+}
+
+.carl-image {
+    margin: 20px 0px;
+}
+
+.slider-wrap {
+    padding: 50px 25px;
+
+}
+
+.carousel-indicators [data-bs-target] {
+    background: yellow !important;
+    background-clip: padding-box !important;
+}
+
+
+.first-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 90%;
+    column-gap: 15px;
+}
+
+.card-content {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.card-graphic {
+    font-size: 12px;
+}
+
+.card-date {
+    font-size: 12px;
+}
+
+.foot-bg {
+    background: #2D0160;
+    padding: 40px;
+}
+
+.foot-list {
+    list-style: none;
+}
+
+.fa-map-marker {
+    color: #FFD600;
+}
+
+.fa-phone {
+    color: #FFD600;
+}
+
+.foot-inp {
+    width: 250px;
+    position: absolute;
+    border-radius: 35px;
+    background-color: #39007A;
+}
+
+.foot-form {
+    position: relative;
+}
+
+.foot-btn {
+    position: absolute;
+    background: #FFD600;
+    border-radius: 48px;
+    left: 155px;
+}
+
+.fa-facebook {
+    color: #FFD600;
+}
+
+.fa-twitter {
+    color: #FFD600;
+}
+
+.fa-google {
+    color: #FFD600;
+}
+
+.fa-camera {
+    color: #FFD600;
+}
+
+.sl-1 {
+    width: 150px;
+    height: 150px;
+}
+
+.carl-pic {
+    width: 40px;
+    height: 40px;
+
+}
+
+/* media query */
+
+@media screen and (min-width: 1440px) {
+    .man-pic-l1 {
+        top: 58px;
+    }
+
+}
+
+@media screen and (max-width: 1024px) {
+    .man-pic-l2 {}
+
+    .man-pic-l1 {
+        top: 100px;
+        left: 30px;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    .man-pic-l1 {
+        left: 1px;
+        top: 160px;
+    }
+
+    .man-pic-l2 {
+        top: 50px;
+        left: 11px;
+    }
+
+    .sl-1 {
+        width: 100px;
+        height: 100px;
+    }
+
+    .mentor-detail-3 {
+        top: 147px;
+        left: 80px;
+    }
+
+    .mentor-detail-4 {
+        top: 285px;
+        left: 30px;
+    }
+
+    .mentor-detail-5 {
+        left: 293px;
+        top: 83px;
+    }
+
+    .mentor-detail-6 {
+        padding-top: 40px;
+
+    }
+
+    .tutor-pic {
+        width: 350px;
+        height: 350px;
+    }
+
+    .education-detail-2 {
+        left: 252px;
+    }
+
+    .education-detail-3 {
+        left: 263px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .card-text {
+        font-size: 12px;
+    }
+
+    .card-date {
+        font-size: 9px;
+    }
+
+    .card-graphic {
+        font-size: 9px;
+    }
+
+    .sl-1 {
+        width: 80px;
+        height: 80px;
+    }
+}
